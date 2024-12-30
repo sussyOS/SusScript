@@ -235,7 +235,7 @@ def generate_code(ast):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python compiler.py <input_file.sus>")
+        print("Usage: sussy <input_file.sus>")
         sys.exit(1)
 
     input_file = sys.argv[1]
