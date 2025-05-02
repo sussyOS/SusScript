@@ -6,7 +6,7 @@ Sussy is a custom programming language compiler designed to compile the **susScr
 
 - **susScript language**: Write code using the unique **susScript** syntax.
 - **Custom Compiler**: Compile **susScript** code into binary.
-- **Library Support**: Include pre-built libraries and custom functions.
+- **Library Support**: Include pre-built libraries and custom functions(in progress).
 - **Cross-platform**: Works on Windows, macOS, and Linux(not yet).
 - **Function Calls**: Call functions in **susScript** code and output results.
 - **Custom Errors**: Handle custom exceptions and runtime errors during execution.
