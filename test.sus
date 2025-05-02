@@ -1,4 +1,0 @@
-func hi() {
-    throw "hello";
-}
-hi()
