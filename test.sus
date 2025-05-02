@@ -1,6 +1,4 @@
-fick add(dumb x, dumb y) {
-    bruh x + y;
+func hi() {
+    throw "hello";
 }
-
-dumb result = add(5, 10);
-throw result;
+hi()
