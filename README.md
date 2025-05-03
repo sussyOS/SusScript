@@ -13,4 +13,4 @@ Sussy is a custom programming language compiler designed to compile the **susScr
 
 ## Installation
 
-To use the Sussy Compiler, download the setup from releases!👍
+To use the Sussy Compiler, [click here](https://sussyos.github.io/susScript)
