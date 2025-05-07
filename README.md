@@ -1,3 +1,16 @@
-# SusScript
-## A Programming language that is sus
-![HappyPartyGIF](https://github.com/user-attachments/assets/723c0e77-8085-4f29-b357-9979de7a75d9)
+# Sussy Compiler
+
+Sussy is a custom programming language compiler designed to compile the **susScript** language into C++ code. It allows you to write your programs in **susScript** (with a `.sus` file extension) and compile them into executable binaries. The compiler supports function definitions, variable declarations, and print statements, among other features.
+
+## Features
+
+- **susScript language**: Write code using the unique **susScript** syntax.
+- **Custom Compiler**: Compile **susScript** code into binary.
+- **Library Support**: Include pre-built libraries and custom functions(in progress).
+- **Cross-platform**: Works on Windows, macOS, and Linux(not yet).
+- **Function Calls**: Call functions in **susScript** code and output results.
+- **Custom Errors**: Handle custom exceptions and runtime errors during execution.
+
+## Installation
+
+To use the Sussy Compiler, [click here](https://sussyos.github.io/susScript)
