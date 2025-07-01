@@ -1,0 +1,10 @@
+Package: sussy
+Version: 0.1.1-alpha
+Maintainer: George Biskas Archaniotakis <georgebiskasarchaniotakis@gmail.com>
+Architecture: all
+Depends: python3, python3-pip, python3-termcolor, g++
+Description: Compiler for the susScript programming language
+ Sussy is the official compiler for susScript, a humorous and expressive 
+ scripting language with keywords like "dumb", "maybe", and "bruh".
+ It compiles .sus files, supports custom packages, and can output 
+ native executables. Designed for learning, fun, and experimentation.
